@@ -1,1 +1,1 @@
-I'm currently on the beginning of my journey to get into competitive programming! Unlike many who started in high school, I'm starting as a freshmen in college. I hope to finish the USACO's guide on competitive programming and eventually be able to compete in regional contests! 
+I'm currently on the beginning of my journey to get into competitive programming! I attached some problems here that I've completed in case I'd like to revisit them.
